@@ -4,6 +4,7 @@ Simple calculator with a graphical interface (Tkinter).
 Run with:  python calculator.py
 Works with the standard library only. Keyboard input is supported too:
 digits, + - * / ( ) . %, Enter or = to calculate, Backspace to delete, Esc to clear.
+Mehr
 """
 
 import ast
